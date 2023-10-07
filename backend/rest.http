@@ -3,10 +3,10 @@
 PUT   http://localhost:1337/api/user-progresses/1?populate=deep
 content-type: application/json
 
-{
-    "data":{
-        "courseProgresses": {   
-            "connect":[2]
-        }
-    }
-}           
+# {
+#     "data":{
+#         "courseProgresses": {   
+#             "connect":[2]
+#         }
+#     }
+# }           
